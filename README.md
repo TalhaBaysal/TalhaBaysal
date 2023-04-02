@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **talha.baysall@hotmail.com**
 
-<h3 align="left">Frontend Stack</h3>
+<h3 align="left">Front-end Stack</h3>
 <p>
    <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
